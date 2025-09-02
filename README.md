@@ -412,3 +412,6 @@ localStorage.removeItem('debug')
 ### License
 
 MIT. Copyright (c) [Feross Aboukhadijeh](https://feross.org) and [WebTorrent, LLC](https://webtorrent.io).
+
+
+<!-- Security scan triggered at 2025-09-02 14:30:25 -->
